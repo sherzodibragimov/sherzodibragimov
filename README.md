@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Assalamu Alaykum, I'm Sherzod!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> HELLO, I'm Sherzod!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Linux+Admin+%26+DevOps;Cisco+CCNA+Specialist;Android+%26+JavaFX+Developer;Frontend+(React)+Enthusiast" alt="Typing SVG" />
